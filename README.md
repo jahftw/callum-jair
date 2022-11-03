@@ -9,4 +9,4 @@
 * om hoe ik moet omgaan met mijn github hoe ik iets erop moet gooien
 
 * waarvan zou ik nog meer willen weten
-* ik zou meer van de branches willen lere
+* ik zou meer van de branches willen leren
